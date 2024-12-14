@@ -2,7 +2,7 @@
   {
     "kind": "column",
     "name": "Country Fetch",
-    "description": "Fetch user's City",
+    "description": "Fetch user's Country",
     "author": "Vlad Penev",
     "params": [
     ],
